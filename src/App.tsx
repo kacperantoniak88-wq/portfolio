@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useState, type ReactNode } from "react";
 import { AnimatePresence, motion, useScroll, useTransform } from "framer-motion";
 import {
   ArrowRight,
@@ -170,7 +170,7 @@ function SectionReveal({
   className,
   delay = 0,
 }: {
-  children: React.ReactNode;
+  children: ReactNode;
   className?: string;
   delay?: number;
 }) {
@@ -191,7 +191,7 @@ function MarkerUnderline({
   children,
   className,
 }: {
-  children: React.ReactNode;
+  children: ReactNode;
   className?: string;
 }) {
   return (
@@ -250,7 +250,7 @@ function GlassCard({
   children,
   className,
 }: {
-  children: React.ReactNode;
+  children: ReactNode;
   className?: string;
 }) {
   return (
@@ -271,7 +271,7 @@ function SectionHeading({
   description,
 }: {
   eyebrow: string;
-  title: React.ReactNode;
+  title: ReactNode;
   description?: string;
 }) {
   return (
