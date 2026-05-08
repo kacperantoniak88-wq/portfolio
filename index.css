@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at top right, rgba(0,170,255,0.08), transparent 22%),
+    radial-gradient(circle at bottom left, rgba(0,170,255,0.06), transparent 26%),
+    linear-gradient(180deg, #fcfdff 0%, #f6f9fc 100%);
+  color: #09111f;
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
