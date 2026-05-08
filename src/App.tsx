@@ -95,6 +95,23 @@ const portfolioItems: PortfolioItem[] = [
     description:
       "Premium feel, clean cuts i estetyczne prowadzenie produktu w formacie short-form.",
   },
+  
+    {
+    title: "TikTok — Reklama Usług",
+    client: "Mateusz Flis",
+    category: "TikTok",
+    url: "https://www.tiktok.com/@mateusz.flis_/video/7637496906414837025?is_from_webapp=1&sender_device=pc",
+    description:
+      "Reklama usług coachingowych na TikTok. Szybki montaż z dynamicznymi przejściami, dopasowany do formatu pionowego i algorytmu platformy.",
+  },
+      {
+    title: "TikTok — cooking content",
+    client: "Mateusz Flis",
+    category: "Instagram",
+    url: "https://www.instagram.com/reel/DXeVUX0xRLp/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    description:
+      "Short z oceną domowego omleta — szybki montaż, napisy i naturalny klimat typowy dla kulinarnego Reelsa.",
+  },
   {
     title: "Instagram Reel — product promo",
     client: "Exotico Watches",
@@ -119,6 +136,7 @@ const portfolioItems: PortfolioItem[] = [
     description:
       "Dynamiczne shorty z czytelną strukturą, napisami i montażem pod algorytm.",
   },
+
 ];
 
 const services = [
