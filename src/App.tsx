@@ -137,6 +137,35 @@ const portfolioItems: PortfolioItem[] = [
       "Dynamiczne shorty z czytelną strukturą, napisami i montażem pod algorytm.",
   },
 
+    {
+    title: "Instagram Reels — promo content",
+    client: "FishYourKicks",
+    category: "Reels",
+    url: "https://www.instagram.com/reel/DWGotqRsOQg/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    description:
+      "Dynamiczny i angażujący Reel promujący buty Jordan 5, z czytelną strukturą, napisami i montażem podkręcającym zasięgi",
+  },
+
+   {
+    title: "Instagram Reels — promo content",
+    client: "FishYourKicks",
+    category: "Reels",
+    url: "https://www.instagram.com/reel/DWGotqRsOQg/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    description:
+      "Dynamiczny i angażujący Reel promujący buty Jordan 5, z czytelną strukturą, napisami i montażem podkręcającym zasięgi",
+  },
+
+  { 
+    title: "Instagram Reels — content treningowy",
+    client: "Mateusz Flis",
+    category: "Reels",
+    url: "https://www.instagram.com/reel/DZAPT9FtV8P/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    description:
+      "Dynamiczny i angażujący materiał o tematyce siłownianej, prezentujący 3 różne ćwiczenia na biceps, z montażem zoptymalizowanym pod kątem utrzymania uwagi widza.",
+  },
+
+  
+
 ];
 
 const services = [
